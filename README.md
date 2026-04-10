@@ -1,6 +1,6 @@
 # Marshall SBTI Test
 
-一个**纯前端、开箱即用的静态人格测试页面**，主题为「SBTI 人格测试」。项目当前以打包后的产物形式保存（主要是单页 HTML + 两个预构建 JS 依赖），可直接部署到任何静态文件服务器。我已经部署在了https://marshallandlucy.github.io/Marshall_SBTI_test/上，点开即测！
+一个**纯前端、开箱即用的静态人格测试页面**，主题为「SBTI 人格测试」。项目当前以打包后的产物形式保存（主要是单页 HTML + 两个预构建 JS 依赖），可直接部署到任何静态文件服务器。我已经部署在了https://marshallandlucy.github.io/Marshall_SBTI_test/ 上，点开即测！
 
 ---
 
